@@ -1,2 +1,2 @@
 # Pho Moonlight website
-current progress of website
+The purpose of this repo is to show current progress of website
